@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "マイナーピース",
+  "base_artist": "ZAQ",
+  "createdAt": "2026-02-23T21:03:14.170490Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "マイナーピース",
+      "artist": "ZAQ",
+      "has_synced": true,
+      "path": "select/01_マイナーピース_ZAQ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "マイナーピース (Off vocal)",
+      "artist": "ZAQ",
+      "has_synced": true,
+      "path": "select/02_マイナーピース_(Off_vocal)_ZAQ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "マイナーピース - Minor Piece",
+      "artist": "ZAQ",
+      "has_synced": true,
+      "path": "select/03_マイナーピース_-_Minor_Piece_ZAQ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "マイナーピース (Paused)",
+      "artist": "ZAQ",
+      "has_synced": true,
+      "path": "select/04_マイナーピース_(Paused)_ZAQ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "マイナーピース",
+      "artist": "ZAQ",
+      "has_synced": false,
+      "path": "select/pl_01_マイナーピース_ZAQ.txt"
+    }
+  ]
+}
